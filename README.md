@@ -17,6 +17,7 @@ Tujuan utama aplikasi ini adalah untuk mendigitalisasi proses pengukuran paramet
 ## Komponen Project
 
 ## 1. Splash Scren
+<img width="203" height="420" alt="image" src="https://github.com/user-attachments/assets/48ab0c47-1b70-43ca-abfe-93ea33c5efc7" />
 
 
 Layar pertama yang muncul saat aplikasi dijalankan.
