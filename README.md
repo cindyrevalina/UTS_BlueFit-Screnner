@@ -56,6 +56,8 @@ Proses: Sistem melakukan analisis bertahap (Memproses -> Menganalisis -> Menyele
 Output: Pengguna menerima data Tinggi, Berat, dan BMI, lalu dapat menyimpannya ke Riwayat.
 
 ## 5. Mock up
+<img width="238" height="505" alt="image" src="https://github.com/user-attachments/assets/990b7df4-332d-4d50-993f-0aa8c59bf9b7" />
+
 
 Mockup adalah desain visual final yang sudah memiliki identitas branding yang jelas.
 
