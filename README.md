@@ -43,7 +43,8 @@ Komponen: Terdiri dari 10 layar utama yang mencakup proses splash screen, halama
 
 
 ## 4. StoryBoard
-https://github.com/cindyrevalina/UTS_BlueFit-Screnner/blob/master/Gambar/Storyboard.png?raw=true
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/302d0398-712c-4b92-acf5-6846c1a4a772" />
+
 
 Storyboard menggambarkan urutan langkah atau pengalaman yang dialami pengguna saat menggunakan aplikasi:
 
