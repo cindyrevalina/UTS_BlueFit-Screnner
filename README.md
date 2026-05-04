@@ -28,6 +28,7 @@ Desain: Menampilkan logo "BlueFit Scanner" dengan latar belakang biru gelap/navy
 
 
 ## 2. Clickup
+<img width="1127" height="653" alt="image" src="https://github.com/user-attachments/assets/db1b5612-6eb2-4585-a8de-042ece959d2f" />
 
 
 ## 3. Wireframe
