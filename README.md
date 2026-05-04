@@ -69,6 +69,7 @@ Visual: Menggunakan tema warna Navy Blue dan White untuk memberikan kesan teknis
 Tipografi & Ikon: Menggunakan ikon yang intuitif (seperti ikon profil, riwayat, dan home) serta visualisasi siluet tubuh untuk membantu akurasi pindaian.
 
 ## 6. UI
+<img width="805" height="360" alt="image" src="https://github.com/user-attachments/assets/dde7f977-e378-47da-bb9c-7e7ec6700a84" />
 
 Cara Penggunaan Aplikasi (User Guide)
 Aplikasi ini dirancang agar pengguna dapat memantau kesehatan tubuh dengan langkah-langkah yang sederhana:
