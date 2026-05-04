@@ -32,6 +32,7 @@ Desain: Menampilkan logo "BlueFit Scanner" dengan latar belakang biru gelap/navy
 
 
 ## 3. Wireframe
+<img width="1170" height="1395" alt="image" src="https://github.com/user-attachments/assets/f218e71b-65d0-4428-b515-640d9e362805" />
 
 
 Wireframe merupakan kerangka dasar (blueprint) yang fokus pada tata letak, fungsi, dan struktur aplikasi tanpa elemen visual yang mendetail.
